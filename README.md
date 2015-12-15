@@ -1,5 +1,4 @@
 # Tutorials
-Repository with my tries
 
-Hi my name is Albert Castell, Im here because I want to share my projects.
-I will do my Best.
+This is a tutorial Working with GODOT in windows 7 64x. 
+Source: https://www.youtube.com/watch?v=GTqbMrnLx3c
