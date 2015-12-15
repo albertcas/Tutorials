@@ -1,0 +1,7 @@
+Troubles:
+
+This section is where I'll put some troubles that I'll find while I'm working with Godot:
+
+Trouuble number 1: Can't Open godot_win64-1.1stable.exe it crashes when I try to execute it.
+Solution number 1: Uptade NVDIA graphics. Open GL was not updated.
+
